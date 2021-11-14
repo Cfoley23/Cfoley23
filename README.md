@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Cfoley23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Cfoley23/Cfoley23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ... Coding with PYTHON JAVASCRIPT HTML CSS
+- 🌱 I’m currently learning ... BOOTSTRAP 4
+- 💞️ I’m looking to collaborate on ... OPEN SOURCE PROJECTS
+- 📫 How to reach me ... ON TWITTER @colin_coding

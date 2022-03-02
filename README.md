@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cfoley23
 - 👀 I’m interested in ... Coding with PYTHON JAVASCRIPT HTML CSS
-- 🌱 I’m currently learning ... BOOTSTRAP 4
+- 🌱 I’m currently learning ... BOOTSTRAP 4, React, React Native and Node.js
 - 💞️ I’m looking to collaborate on ... OPEN SOURCE PROJECTS
 - 📫 How to reach me ... ON TWITTER @colin_coding
